@@ -19,6 +19,7 @@
     <module>service</module>
     <module>repository</module>
     <module>dynamic-module</module>
+    <module>argument-resolver</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
