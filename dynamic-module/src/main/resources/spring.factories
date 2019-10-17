@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+khannedy.spring.design.patterns.module.MyModule,\
+khannedy.spring.design.patterns.module.MyOtherModule
